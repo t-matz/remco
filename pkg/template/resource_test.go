@@ -15,7 +15,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/HeavyHorst/easykv/mock"
+	"github.com/t-matz/easykv/mock"
 
 	. "gopkg.in/check.v1"
 )

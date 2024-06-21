@@ -15,7 +15,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/HeavyHorst/easykv"
+	"github.com/t-matz/easykv"
 	berr "github.com/HeavyHorst/remco/pkg/backends/error"
 	"github.com/HeavyHorst/remco/pkg/template"
 	"github.com/natefinch/pie"

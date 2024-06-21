@@ -12,7 +12,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/HeavyHorst/easykv"
+	"github.com/t-matz/easykv"
 	"github.com/HeavyHorst/memkv"
 	berr "github.com/HeavyHorst/remco/pkg/backends/error"
 	"github.com/HeavyHorst/remco/pkg/log"

@@ -9,7 +9,7 @@
 package backends
 
 import (
-	"github.com/HeavyHorst/easykv/consul"
+	"github.com/t-matz/easykv/consul"
 	berr "github.com/HeavyHorst/remco/pkg/backends/error"
 	"github.com/HeavyHorst/remco/pkg/log"
 	"github.com/HeavyHorst/remco/pkg/template"
